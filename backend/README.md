@@ -15,13 +15,6 @@
 
 </div>
 
-## 📸 Screenshots
-
-| Home Screen | Analysis Result |
-| <img src="screenshots/home.jpg" width="300"> | <img src="screenshots/analysis.jpg" width="300"> |
-
----
-
 ## 📖 About
 
 **GitAnalyzer Pro** is an AI-powered GitHub repository analysis platform that turns raw GitHub data into meaningful insights — instantly. Enter any GitHub username and get a comprehensive breakdown of their public repositories: language distribution, popularity metrics, activity trends, and a downloadable PDF report — all in one clean, modern interface.
