@@ -9,8 +9,8 @@ import 'package:shimmer/shimmer.dart';
 
 // Configuration: IP Address & API Base URL
 class AppConfig {
-  static const String ipAddress = "172.26.38.150";
-  static const String baseUrl = "http://172.26.38.150:8000/analyze";
+  static const String baseUrl =
+      "https://github-analyzer-pro-production.up.railway.app/analyze";
 }
 
 void main() => runApp(const GitHubAnalyzerApp());
