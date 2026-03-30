@@ -4,12 +4,6 @@
 
 # GitAnalyzer Pro
 
-## 📸 Screenshots
-
-| Home Screen | Analysis Result |
-| :---: | :---: |
-| <img src="screenshots/home.jpg" width="300"> | <img src="screenshots/analysis.jpg" width="300"> |
-
 ### AI-Powered GitHub Repository Analysis — Instantly understand any GitHub profile.
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-github--analyzer--pro.web.app-4285F4?style=for-the-badge)](https://github-analyzer-pro.web.app/)
@@ -20,6 +14,11 @@
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
 
 </div>
+
+## 📸 Screenshots
+
+| Home Screen | Analysis Result |
+| <img src="screenshots/home.jpg" width="300"> | <img src="screenshots/analysis.jpg" width="300"> |
 
 ---
 
