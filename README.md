@@ -5,9 +5,10 @@
 # GitAnalyzer Pro
 
 ## 📸 Screenshots
+
 | Home Screen | Analysis Result |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/AmeeshaDS/github-analyzer-pro/main/screenshots/home.jpg" width="300"> | <img src="screenshots/analysis.jpg" width="300"> |
+| <img src="https://raw.githubusercontent.com/AmeeshaDS/github-analyzer-pro/main/Screenshots/home.jpg" width="300"> | <img src="https://raw.githubusercontent.com/AmeeshaDS/github-analyzer-pro/main/Screenshots/analysis.jpg" width="300"> |
 
 ### AI-Powered GitHub Repository Analysis — Instantly understand any GitHub profile.
 
