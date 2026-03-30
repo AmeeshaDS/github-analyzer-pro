@@ -4,6 +4,11 @@
 
 # GitAnalyzer Pro
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 ### AI-Powered GitHub Repository Analysis — Instantly understand any GitHub profile.
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-github--analyzer--pro.web.app-4285F4?style=for-the-badge)](https://github-analyzer-pro.web.app/)
