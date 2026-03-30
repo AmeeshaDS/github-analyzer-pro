@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitAnalyzer-Pro-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitAnalyzer Pro" height="50"/>
+<img src="https://img.shields.io/badge/GitAnalyzer-Pro-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitAnalyzer Pro" height="50"/> 
 
 # GitAnalyzer Pro
 
@@ -14,8 +14,6 @@
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
 
 </div>
-
----
 
 ## 📖 About
 
