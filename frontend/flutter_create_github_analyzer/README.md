@@ -4,10 +4,11 @@
 
 # GitAnalyzer Pro
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+## 📸 Screenshots
+
+| Home Screen | Analysis Result |
+| :---: | :---: |
+| <img src="screenshots/home.jpg" width="300"> | <img src="screenshots/analysis.jpg" width="300"> |
 
 ### AI-Powered GitHub Repository Analysis — Instantly understand any GitHub profile.
 
