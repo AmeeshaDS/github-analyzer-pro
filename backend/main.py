@@ -3,13 +3,25 @@ from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 import requests
 from dotenv import load_dotenv
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
-# .env file එකකින් Token එක load කරගැනීමට (Security සඳහා)
+app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
+# To load the Token from an .env file (for security)
 load_dotenv()
 
 app = FastAPI()
 
-# Flutter App එකට connect වීමට CORS settings
+# CORS settings to connect to the Flutter App
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -19,7 +31,7 @@ app.add_middleware(
 )
 
 # --- CONFIGURATION ---
-# GitHub Personal Access Token එක .env file එකක හෝ environment variable එකක තියෙන්න ඕනේ.
+# The GitHub Personal Access Token must be in a .env file or environment variable.
 # GitHub -> Settings -> Developer Settings -> Personal access tokens -> Tokens (classic) -> Generate new token
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
@@ -99,6 +111,3 @@ def analyze_repository(owner: str = Query(...), repo_name: str = Query(...)):
         "languages": processed_languages,
         "contributors": contributors
     }
-
-# Terminal එකේ run කරන්න:
-# uvicorn main:app --host 0.0.0.0 --port 8000 --reload
